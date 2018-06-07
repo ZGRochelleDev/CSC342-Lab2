@@ -4,7 +4,8 @@ date: "May 2018"
 
 ---
 ### Project Requirements:
-* UDT assignment: Structure & Behavior
+* UDT assignment: Structure & Behavior.*
+
 Completed:
 	POINT OBJECT
 	POINT TYPE BODY
