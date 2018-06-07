@@ -1,6 +1,6 @@
 title: CSC342-Lab2
-author: "Zoe Rochelle"  
-date: "May 2018"  
+author: "Zoe Rochelle"
+date: "May 2018"
 
 ---
 ### Project Requirements:
